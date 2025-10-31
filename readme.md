@@ -1,0 +1,1 @@
+# This are all the notes which i created while learning mongodb
